@@ -59,8 +59,7 @@ INSERT INTO movies (title, year, show_time) VALUES ('Black Panther', 2018, '21:0
 -- DELETE FROM people WHERE name = 'Eric Cartman';
 -- INSERT INTO movies (title, year, show_time) VALUES ('Avengers: Infinity War', 2019, '00:00');
 -- UPDATE movies SET show_time = '20:45' WHERE id = 7;
--- DELETE FROM people Where id IN (1,3,5)
-DELETE FROM people WHERE name = 'Homer Simpson', 'Eric Cartman';
+DELETE FROM people Where id IN (1,3,5)
 
 -- SELECT COUNT(*) FROM people;
 -- SELECT * FROM movies;
